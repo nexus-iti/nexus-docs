@@ -15,8 +15,8 @@ Documentación de **NEXUS / SGRSI**, el Sistema de Gestión de Recursos y Servic
 | [`modelo-datos/`](modelo-datos/) | Modelo relacional y MER vigente (Mermaid) |
 | [`guias/`](guias/) | Guías de implementación, prioridades, cierre, i18n/temas y correcciones |
 | [`despliegue/`](despliegue/) | Despliegue institucional y smoke test LAN |
-| [`pruebas/`](pruebas/) | Pruebas automatizadas y casos de caja blanca |
-| [`informes/`](informes/) | Informes de correcciones, reevaluación de rúbrica e informe final (PDF) |
+| [`pruebas/`](pruebas/) | Plan de testing, casos de prueba, casos de uso y pruebas automatizadas |
+| [`informes/`](informes/) | Book funcional, inventario, correcciones, reevaluación de rúbrica e informe final |
 | [`diseno/`](diseno/) | Archivo de diseño del prototipo de la 1ra entrega |
 | [`prompts/`](prompts/) | Prompts usados en el rework de UI, i18n y temas |
 
